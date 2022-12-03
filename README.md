@@ -299,10 +299,10 @@
 <section class="section" id="education">
   <h2><a href="#education">Education</a></h2>
   <p>
-    Master Degree in Computer Science, St. Petersburg State University of Airspace Instrumentation (SUAI) Department of Automatic Control Systems. Specialty: Automatic Control and Information Processing Systems (2004).
+    Master Degree in Computer Science, Novosibirsk State University of Airspace Instrumentation (SUAI) Department of Automatic Control Systems. Specialty: Automatic Control and Information Processing Systems (2004).
   </p>
   <p>
-    Postgraduate education, St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences (SPIIRAS). Specialty: Mathematical and Software Support of Computers, Complex Systems, and Networks (2008).
+    Postgraduate education, Novokuznetsk Institute for Informatics and Automation of the Russian Academy of Sciences (SPIIRAS). Specialty: Mathematical and Software Support of Computers, Complex Systems, and Networks (2008).
   </p>
 </section>
 
