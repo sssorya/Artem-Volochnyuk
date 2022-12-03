@@ -122,7 +122,7 @@
     </li>
     <li>
       Telegram:
-      <a href="https://linkedin.com/in/alexmusayev">linkedin.com/in/alexmusayev</a>
+      <a href="https://t.me/sorya_lft">Sorya</a>
     </li>
     <li>
       Languages: Fluent English and native Russian
@@ -323,8 +323,8 @@
 <section class="section" id="misc">
   <h2><a href="#misc">Miscellaneous</a></h2>
   <ul>
-    <li>Some of my articles at Hacker Noon: <a href="https://hackernoon.com/@dreikanter">hackernoon.com/@dreikanter</a></li>
-    <li>StackOverflow profile: <a href="https://stackoverflow.com/users/177194/">stackoverflow.com/users/177194/</a></li>
+    <li>Some of my articles at Hacker Noon: <a href="https://hackernoon.com/@">hackernoon.com/@</a></li>
+    <li>StackOverflow profile: <a href="https://stackoverflow.com/users/">stackoverflow.com/users/</a></li>
     <li>Have space suit — will travel</li>
   </ul>
 </section>
